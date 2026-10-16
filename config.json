@@ -7,5 +7,17 @@
     "url": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/chatgpt.png",
     "photo": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/chatgpt.png",
     "link": "https://chatgpt.com/"
+  },
+  {
+    "slug": "music",
+    "name": "Music",
+    "tracks": [
+      {
+        "title": "KASO - KONT NKHAF 3LIK MEN NAAR",
+        "artist": "KASO",
+        "url": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext/music/midnight-city.mp3",
+        "thumb": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext/music/thumbs/midnight-city.jpg"
+      }
+    ]
   }
 ]

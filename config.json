@@ -1,1 +1,27 @@
 
+[
+  {
+    "slug": "chat",
+    "name": "Chat",
+    "icon": "https://dummyimage.com/64x64/6c7fff/ffffff.png&text=C",
+    "url": "https://example.com/chat-icon.png",
+    "photo": "https://example.com/chat-photo.png",
+    "link": "https://example.com/chat"
+  },
+  {
+    "slug": "docs",
+    "name": "Docs",
+    "icon": "https://dummyimage.com/64x64/35a77c/ffffff.png&text=D",
+    "url": "https://example.com/docs-icon.png",
+    "photo": "https://example.com/docs-photo.png",
+    "link": "https://example.com/docs"
+  },
+  {
+    "slug": "support",
+    "name": "Support",
+    "icon": "https://dummyimage.com/64x64/f28c28/ffffff.png&text=S",
+    "url": "https://example.com/support-icon.png",
+    "photo": "https://example.com/support-photo.png",
+    "link": "https://example.com/support"
+  }
+]

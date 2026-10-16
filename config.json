@@ -3,9 +3,9 @@
   {
     "slug": "chat",
     "name": "ChatGPT",
-    "icon": "https://raw.githubusercontent.com/Da3f4ult/ext/main/chatgpt.png",
-    "url": "https://raw.githubusercontent.com/Da3f4ult/ext/main/chatgpt.png",
-    "photo": "https://raw.githubusercontent.com/Da3f4ult/ext/main/chatgpt.png",
+    "icon": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/chatgpt.png",
+    "url": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/chatgpt.png",
+    "photo": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/chatgpt.png",
     "link": "https://chatgpt.com/"
   }
 ]

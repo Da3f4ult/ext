@@ -2,11 +2,11 @@
 [
   {
     "slug": "chat",
-    "name": "Chat",
+    "name": "ChatGPT",
     "icon": "https://dummyimage.com/64x64/6c7fff/ffffff.png&text=C",
-    "url": "https://example.com/chat-icon.png",
+    "url": "",
     "photo": "https://example.com/chat-photo.png",
-    "link": "https://example.com/chat"
+    "link": "https://chatgpt.com/"
   },
   {
     "slug": "docs",

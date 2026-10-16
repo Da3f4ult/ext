@@ -5,7 +5,7 @@
     "name": "ChatGPT",
     "icon": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/chatgpt.png",
     "url": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/chatgpt.png",
-    "photo": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/chatgpt.png",
+    "photo": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext@main/public/imgs/chatgpt.png",
     "link": "https://chatgpt.com/"
   },
   {
@@ -15,8 +15,8 @@
       {
         "title": "KASO - KONT NKHAF 3LIK MEN NAAR",
         "artist": "KASO",
-        "url": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext/music/midnight-city.mp3",
-        "thumb": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext/music/thumbs/midnight-city.jpg"
+        "url": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext/public/music/mp3/KASO - KONT NKHAF 3LIK MEN NAAR ( EP FEELINGS ).mp3",
+        "thumb": "https://cdn.jsdelivr.net/gh/Da3f4ult/ext/public/music/thumb/hqdefault.jpg"
       }
     ]
   }
